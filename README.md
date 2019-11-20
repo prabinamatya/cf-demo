@@ -12,3 +12,9 @@ prabin-cf-demo-green           started           1/1         768M     1G     pra
 
 cf unmap-route prabin-cf-demo-blue cfapps.io -n prabin-cf-demo
 cf map-route prabin-cf-demo-green cfapps.io -n prabin-cf-demo
+
+
+###Swagger
+http://prabin-cf-demo.cfapps.io/swagger-ui.html
+
+
