@@ -1,0 +1,7 @@
+applications:
+  - name: prabin-cf-demo-blue
+    memory: 768M
+    instances: 1
+    random-route: true
+    buildpack: java_buildpack
+    path: ./target/demo-0.0.1-SNAPSHOT.jar
