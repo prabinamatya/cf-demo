@@ -1,5 +1,5 @@
 applications:
-  - name: prabin-cf-demo-blue
+  - name: prabin-cf-demo-green
     memory: 768M
     instances: 1
     random-route: true
